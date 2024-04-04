@@ -1,0 +1,19 @@
+.parent{
+    background-color: aqua;
+   
+    flex-wrap: wrap;
+    height: 500px;
+    display: flex;
+    justify-content: space-around;
+    align-items: baseline;
+    flex-direction: column;
+}
+.child{
+    border: 2px solid red;
+    border-color: rgb(16, 17, 15);
+    width: 100px;
+}
+.logo{
+    padding: none;
+
+}
